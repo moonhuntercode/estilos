@@ -40,7 +40,7 @@ document.querySelector("#app").innerHTML =
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Vite logo to learn more
+      Click on the Vite, js, or web components logo to learn more
     </p>
   </div>
 `;
