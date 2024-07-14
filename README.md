@@ -1,5 +1,19 @@
 # [Web components](https://www.webcomponents.org/introduction) with [Custom Elements](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements) + [es6 modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) + [vitejs](https://vitejs.dev/) + your perfect [polyfills](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs#how-to-use)
 
+## [Custom Elements](https://www.webcomponents.org/introduction#custom-elements)
+
+The Custom Elements specification lays the foundation for designing and using new types of DOM elements.
+
+## [ES Modules](https://www.webcomponents.org/introduction#es-modules)
+
+The ES Modules specification defines the inclusion and reuse of JS documents in a standards based, modular, performant way.
+
+---
+
+### [How do I use a web component?](https://www.webcomponents.org/introduction#how-do-i-use-a-web-component-)
+
+---
+
 ## Polyfill
 
 <!-- **Esto es un texto en negrita** y **esto también lo es** -->
@@ -27,3 +41,14 @@ for our complete browser support matrix:
     - Y con mi arco
     - Y con mi hacha
 - No es tan difícil
+
+## TO DO
+
+- ✅⚔️ : refactoring in css
+- ✅⚔️ : modularization with css aplied
+- ✅⚔️ : nesting in css
+- ❌⚔️ : refactoring in first web component
+- ❌⚔️ help with this: aplicar Asynchronous webcomponents-loader.js 
+  - The WebComponents.waitFor
+  - with multiples components added
+- ❌⚔️ : 

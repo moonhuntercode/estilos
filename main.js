@@ -1,8 +1,12 @@
-import javascriptLogo from "./javascript.svg";
+// inside public folder ,config start
+import javascriptLogo from "/javascript.svg";
 import viteLogo from "/vite.svg";
 import webComponentIcon from "/webcomponents-icon.png";
+// inside public folder ,config end
+
 import { setupCounter } from "./counter.js";
-import "./components/template-reusable.css";
+
+// import main styles
 import "./components/main.css";
 
 // polyfill of webcomponents start
