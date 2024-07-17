@@ -32,23 +32,13 @@ for our complete browser support matrix:
 | Custom Elements |  ✓   |   ✓   |    ✓     |     ✓     |      ✓      |        ✓         |        ✓        |
 | Shady CSS/DOM   |  ✓   |   ✓   |    ✓     |     ✓     |      ✓      |        ✓         |        ✓        |
 
-## Listas
-
-- Puedes crear listas con los símbolos +, -, or \*
-- Y también sublistas agreganndo **2** espacios:
-  - Cada marcador creará un nuevo elemento:
-    - Cuenta con mi espada
-    - Y con mi arco
-    - Y con mi hacha
-- No es tan difícil
-
 ## TO DO
 
 - ✅⚔️ : refactoring in css
 - ✅⚔️ : modularization with css aplied
 - ✅⚔️ : nesting in css
 - ❌⚔️ : refactoring in first web component
-- ❌⚔️ help with this: aplicar Asynchronous webcomponents-loader.js 
+- ❌⚔️ help with this: aplicar Asynchronous webcomponents-loader.js
   - The WebComponents.waitFor
   - with multiples components added
-- ❌⚔️ : 
+- ❌⚔️ : pensando usar como routing esto: https://github.com/colscott/a-wc-router
